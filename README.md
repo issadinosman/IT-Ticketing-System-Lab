@@ -60,9 +60,11 @@ A help desk ticket was created requesting a password reset.
 9. Documented the resolution in Spiceworks.
 10. Closed the ticket.
 
+> ## 📸 CLICK BELOW TO VIEW PASSWORD RESET SCREENSHOTS ⬇️
+
 <details>
 
-<summary><b>📸 Click to view Password Reset screenshots</b></summary>
+<summary><h3>🔽 CLICK HERE TO EXPAND PASSWORD RESET SCREENSHOTS 🔽</h3></summary>
 
 <br>
 
@@ -136,9 +138,13 @@ After starting the Print Spooler service:
 4. Documented the troubleshooting steps and resolution in Spiceworks.
 5. Closed the ticket.
 
+> ## 🖨️ CLICK BELOW TO VIEW PRINTER TROUBLESHOOTING SCREENSHOTS ⬇️
+
 <details>
 
-<summary><b>📸 Click to view Printer Troubleshooting screenshots</b></summary>
+<summary><h3>🔽 CLICK HERE TO EXPAND PRINTER TROUBLESHOOTING SCREENSHOTS 🔽</h3></summary>
+
+<br>
 
 <br>
 
@@ -210,9 +216,13 @@ The ping was successful with **0% packet loss**, confirming that CLIENT01 had re
 
 The troubleshooting steps and resolution were documented in Spiceworks, and the ticket was closed.
 
+> ## 🌐 CLICK BELOW TO VIEW NETWORK TROUBLESHOOTING SCREENSHOTS ⬇️
+
 <details>
 
-<summary><b>📸 Click to view Network Troubleshooting screenshots</b></summary>
+<summary><h3>🔽 CLICK HERE TO EXPAND NETWORK TROUBLESHOOTING SCREENSHOTS 🔽</h3></summary>
+
+<br>
 
 <br>
 
